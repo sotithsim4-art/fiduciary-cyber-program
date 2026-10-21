@@ -6,7 +6,15 @@ It covers the same kind of work a firm has to show for a program: a written poli
 
 It does not install anything on computers, collect client files, or update itself when rules change. It is not legal advice and it does not replace policies written for your firm.
 
-## How to run
+## How to open
+
+Double-click **Open Fiduciary Cyber Program.bat**.
+
+A window opens with the checklist. Choose Yes, Partial, or No. **Save report** writes `cyber-program-report.txt` in this folder.
+
+A minimized window named "Close this window to quit" keeps the app running. Close that window when you are finished.
+
+The same checklist still runs in a terminal:
 
 ```
 python fiduciary_cyber.py
